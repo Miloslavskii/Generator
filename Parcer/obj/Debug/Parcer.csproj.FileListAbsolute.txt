@@ -1,0 +1,12 @@
+D:\Read\Studio\Generator_1.5.2\Parcer\bin\Debug\Parcer.dll
+D:\Read\Studio\Generator_1.5.2\Parcer\bin\Debug\Parcer.pdb
+D:\Read\Studio\Generator_1.5.2\Parcer\bin\Debug\Ecng.Common.dll
+D:\Read\Studio\Generator_1.5.2\Parcer\bin\Debug\Ecng.ComponentModel.dll
+D:\Read\Studio\Generator_1.5.2\Parcer\bin\Debug\Ecng.Serialization.dll
+D:\Read\Studio\Generator_1.5.2\Parcer\bin\Debug\Messages.dll
+D:\Read\Studio\Generator_1.5.2\Parcer\bin\Debug\StockSharp.BusinessEntities.dll
+D:\Read\Studio\Generator_1.5.2\Parcer\bin\Debug\StockSharp.Messages.dll
+D:\Read\Studio\Generator_1.5.2\Parcer\bin\Debug\StockSharp.Xaml.dll
+D:\Read\Studio\Generator_1.5.2\Parcer\obj\Debug\Parcer.csprojResolveAssemblyReference.cache
+D:\Read\Studio\Generator_1.5.2\Parcer\obj\Debug\Parcer.dll
+D:\Read\Studio\Generator_1.5.2\Parcer\obj\Debug\Parcer.pdb

@@ -1,0 +1,137 @@
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Generator_1.5.2.exe.config
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Generator_1.5.2.exe
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Generator_1.5.2.pdb
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\MahApps.Metro.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\System.Windows.Interactivity.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\MahApps.Metro.pdb
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\MahApps.Metro.xml
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\obj\Debug\Generator_1.5.2.csprojResolveAssemblyReference.cache
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\obj\Debug\MainWindow.baml
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\obj\Debug\MainWindow.g.cs
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\obj\Debug\App.g.cs
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\obj\Debug\Generator_1.5.2_MarkupCompile.cache
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\obj\Debug\Generator_1.5.2.g.resources
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\obj\Debug\Generator_1._5._2.Properties.Resources.resources
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\obj\Debug\Generator_1.5.2.csproj.GenerateResource.Cache
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\obj\Debug\Generator_1.5.2.exe
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\obj\Debug\Generator_1.5.2.pdb
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\obj\Debug\App.baml
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\obj\Debug\Resources\Icons.baml
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\obj\Debug\Resources\IconsNonShared.baml
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\obj\Debug\SettingWindow.baml
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\obj\Debug\SettingWindow.g.cs
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\LiveCharts.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\LiveCharts.pdb
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\LiveCharts.xml
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\LiveCharts.Wpf.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\LiveCharts.Wpf.pdb
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\LiveCharts.Wpf.xml
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Ecng.Common.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Ecng.ComponentModel.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Ecng.Serialization.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Parcer.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\StockSharp.BusinessEntities.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\StockSharp.Messages.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Parcer.pdb
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\AForge.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\ClrPatch.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\DevExpress.Mvvm.v15.2.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Ecng.Collections.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Ecng.Configuration.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Ecng.Localization.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Ecng.Xaml.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\MoreLinq.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Ecng.Reflection.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Ecng.Interop.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\SevenZipSharp.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Ecng.Transactions.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\DevExpress.Mvvm.v15.2.xml
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\MoreLinq.xml
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Ecng.Net.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Ecng.Security.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Ecng.Serialization.FieldFactories.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Ecng.Web.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\log4net.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Newtonsoft.Json.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\StockSharp.Localization.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\StockSharp.Logging.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\log4net.xml
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Newtonsoft.Json.xml
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\StockSharp.BusinessEntities.xml
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\StockSharp.Localization.xml
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\StockSharp.Logging.xml
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\StockSharp.Messages.xml
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Generator.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\GenNetworks.dll
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\Generator.pdb
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\GenNetworks.pdb
+D:\Read\Studio\Generator_1.5.2\Generator_1.5.2\bin\Debug\AForge.xml
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Generator_1.5.2.exe.config
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\obj\Debug\Generator_1.5.2.exe
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\obj\Debug\Generator_1.5.2.pdb
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Generator_1.5.2.exe
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Generator_1.5.2.pdb
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Ecng.Common.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Ecng.Xaml.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Generator.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\LiveCharts.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\LiveCharts.Wpf.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\MahApps.Metro.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Parcer.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\StockSharp.BusinessEntities.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\StockSharp.Messages.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\MoreLinq.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Ecng.Collections.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Ecng.Localization.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\ClrPatch.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Ecng.Reflection.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Ecng.ComponentModel.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Ecng.Interop.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Ecng.Serialization.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\GenNetworks.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\System.Windows.Interactivity.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\StockSharp.Localization.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Ecng.Serialization.FieldFactories.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\StockSharp.Logging.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\DevExpress.Mvvm.v15.2.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Ecng.Net.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Ecng.Configuration.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\SevenZipSharp.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\AForge.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Ecng.Security.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Ecng.Transactions.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\log4net.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Newtonsoft.Json.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Ecng.Web.dll
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Generator.pdb
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\LiveCharts.pdb
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\LiveCharts.xml
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\LiveCharts.Wpf.pdb
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\LiveCharts.Wpf.xml
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\MahApps.Metro.pdb
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\MahApps.Metro.xml
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Parcer.pdb
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\StockSharp.BusinessEntities.xml
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\StockSharp.Messages.xml
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\MoreLinq.xml
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\GenNetworks.pdb
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\StockSharp.Localization.xml
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\StockSharp.Logging.xml
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\DevExpress.Mvvm.v15.2.xml
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\AForge.xml
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\log4net.xml
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\bin\Debug\Newtonsoft.Json.xml
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\obj\Debug\MainWindow.baml
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\obj\Debug\Resources\Icons.baml
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\obj\Debug\Resources\IconsNonShared.baml
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\obj\Debug\SettingWindow.baml
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\obj\Debug\App.baml
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\obj\Debug\MainWindow.g.cs
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\obj\Debug\SettingWindow.g.cs
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\obj\Debug\App.g.cs
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\obj\Debug\Generator_1.5.2_MarkupCompile.cache
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\obj\Debug\Generator_1.5.2.g.resources
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\obj\Debug\Generator_1._5._2.Properties.Resources.resources
+D:\Read\Studio\Generator_1.5.2 — копия (2)\Generator_1.5.2\obj\Debug\Generator_1.5.2.csproj.GenerateResource.Cache
